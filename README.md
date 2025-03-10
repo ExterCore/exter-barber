@@ -3,6 +3,9 @@
 ## Description
 This script adds a **hair clipper tool** feature to the **QBCore** server using **Ox Inventory**. With this script, players can use the "clippers" item to shave other players' hair completely bald.
 
+## Preview
+https://streamable.com/el1fbo
+
 ## Features
 - Uses **Ox Inventory** for the "clippers" item.
 - Realistic animation while shaving.
